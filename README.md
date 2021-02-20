@@ -5,4 +5,6 @@ A Simple AI “vs” Human Chess Game! Play Now https://krishnavyshak-chess.netl
 <H2>THE NEXT VERSION OF THIS GAME IS COMING SOON...</H2>
 
 
-<iframe src="https://krishnavyshak-chess.netlify.app/" height="200" width="300" title="Iframe Example"></iframe>
+<h4>source code</h4>
+<a href="https://krishnavyshak-chess.netlify.app/Assets/index.html"> INDEX.HTML</a> <p style="color:#f9f9f9">[mail file of the game, it contains two links that are a "link stylsheet" and a "script" tag that is connected with other files in the repo.]</p>
+<a href="https://krishnavyshak-chess.netlify.app/Assets/index.js'>INDEX.JS"</a>
