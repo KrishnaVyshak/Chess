@@ -611,9 +611,9 @@ return time;
 function mark(id,unit)
 {
 if(unit=="enemy")
-document.getElementById(id).style.border = "red 1px solid";
+document.getElementById(id).style.border = "red 3px solid";
 else if(unit=="free")
-document.getElementById(id).style.border = "yellow 1px solid";
+document.getElementById(id).style.border = "yellow 3px solid";
 }
 function cleaner()
 {
