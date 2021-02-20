@@ -74,9 +74,9 @@ function statusControl()
 if(checkmate==1)
 {
 if(turn=="black")
-document.all.statu.innerHTML="AI wins!";
+document.all.statu.innerHTML="🥺AI wins!🥺";
 else
-document.all.statu.innerHTML="You win!";
+document.all.statu.innerHTML="🎉You win!🎉";
 document.getElementById("print").style.display="block";
 document.all.movement.value += "\nThe Game Has Finished !";
 scroll();
@@ -158,7 +158,7 @@ hostile=false;
 }
 if(finished!=true)
 {
-document.all.statu.innerHTML="Your turn...";
+document.all.statu.innerHTML="Select You Player";
 cleaner();
 }
 
