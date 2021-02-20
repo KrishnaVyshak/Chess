@@ -13,3 +13,4 @@ A Simple AI “vs” Human Chess Game! Play Now https://krishnavyshak-chess.netl
  <p> the main file of the game, which is actually the brain of the game which controls the game and the AI itself... </p> 
 
 [STYLE.CSS](https://krishnavyshak-chess.netlify.app/Assets/style.css) Cascade Style Sheet
+<P> This file is the styling the game</p>
