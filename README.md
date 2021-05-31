@@ -1,6 +1,6 @@
 
 ![Chess Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDwvSt_mQvP-l1slMNKRDNXeNg_PxdxWdZA&usqp=CAU)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6a2a166e-9829-4cb3-9819-56436a33cccd/deploy-status)](https://app.netlify.com/sites/krishnavyshak-chess/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a2a166e-9829-4cb3-9819-56436a33cccd/deploy-status)](https://api.netlify.com/api/v1/badges/6a2a166e-9829-4cb3-9819-56436a33cccd/deploy-status)
 
 # Chess
 A Simple AI “vs” Human Chess Game! Play Now https://krishnavyshak-chess.netlify.app Try To Beat The AI 😎
